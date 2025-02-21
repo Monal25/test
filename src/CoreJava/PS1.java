@@ -7,9 +7,9 @@ public class PS1 extends PS{
 	@Test
 	public void operation()
 	{
-		int a=3;
+		int a=5;
 		doThis();
-		PS2 ps2=  new PS2(3); //Parameterized constructor
+		PS2 ps2=  new PS2(6); //Parameterized constructor
 //Constructor - default constructor created automatically 
 //when no parameters passed 
 		

@@ -16,7 +16,7 @@ public int increment()
 }
 public int decrement()
 {
-	a=a-1;
+	a=a-3;
 	return a;
 }
 }

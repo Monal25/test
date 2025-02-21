@@ -7,6 +7,8 @@ public class PS {
 	public void doThis()
 	{
 	System.out.println("I am here");
+	System.out.println("I am here1");
+	System.out.println("I am here2");
 	}
 @BeforeTest
 public void bM()

@@ -13,7 +13,7 @@ public int multipyTwo()
 }
 public int multipyThree()
 {
-	a=a * 3; // refers to class variable a
+	a=a * 30; // refers to class variable a
 	return a;
 }
 }
