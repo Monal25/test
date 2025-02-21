@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Loan Department]" guice-stage="DEVELOPMENT">
+  <parameter name="URL" value="google.com"/>
+  <listeners>
+    <listener class-name="TestngTest.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Personal Loan(failed)">
+    <classes>
+      <class name="TestngTest.day3">
+        <methods>
+          <include name="LoginAPICarLoan"/>
+          <include name="bc"/>
+          <include name="WebLoginCarLoan"/>
+          <include name="MobileSignOutCarLoan"/>
+          <include name="bm"/>
+        </methods>
+      </class> <!-- TestngTest.day3 -->
+    </classes>
+  </test> <!-- Personal Loan(failed) -->
+</suite> <!-- Failed suite [Loan Department] -->
