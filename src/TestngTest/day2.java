@@ -8,6 +8,7 @@ public class day2 {
 	public void hju()
 	{
 		System.out.println("Mini");
+		System.out.println("Mini");	System.out.println("Mini");	System.out.println("Mini");
 	}
 	@BeforeTest
 	public void first()
