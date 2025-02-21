@@ -13,6 +13,7 @@ public class day3 {
 	public void WebLoginCarLoan(String urlName,String name)
 	{
 		System.out.println("weblogincar");
+		System.out.println("weblogincar");System.out.println("weblogincar");
 		System.out.println(urlName +"----"+name);
 	}
 	@Test(groups= {"Smoke"})
