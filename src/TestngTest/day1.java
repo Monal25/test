@@ -19,6 +19,10 @@ System.out.println("Hello");
 	public void second()
 	{
 		System.out.println("Bye");
+		System.out.println("Bye");
+		System.out.println("Bye");
+		System.out.println("Bye");
+		System.out.println("Bye");
 	}
 	@BeforeSuite
 	public void Bfsuite()
