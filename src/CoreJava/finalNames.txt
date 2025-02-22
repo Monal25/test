@@ -7,8 +7,6 @@ e
 f
 g
 h
-i
-j
 
 Numbers
 1
